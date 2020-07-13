@@ -19,11 +19,8 @@ Software Developer at GFT. Bachelor degree in Electrical Engineering from the Fe
 
 * [EN] **Exploratory Data Analysis app with Streamlit:** [app](https://exploratory-data-analysis.herokuapp.com/) | [code](https://github.com/bosamatheus/eda)
 * [EN] **Using a CNN to recognize handwritten months of the year in Portuguese:** [code](https://github.com/bosamatheus/handwritten-months)
-* [EN] **Emotion recognition in real time using OpenCV and Deep Learning:** [code](https://github.com/bosamatheus/emotion-recognition)
-* [EN] **Face detection using Haar features:** [code](https://github.com/bosamatheus/face-detection-haar)
 * [PT] **Sistema de detecção automática de pupila e íris em imagens de pupilometria dinâmica:** [app](https://pupilometria.herokuapp.com/) | [code](https://github.com/bosamatheus/dynamic_pupillometry)
 * [PT] **Análise dos dados de clientes de empréstimos com Machine Learning:** [code](https://github.com/bosamatheus/clientes-emprestimo)
-* [EN] **Web scraping JavaScript generated pages with Python:** [code](https://github.com/bosamatheus/webscraping-selenium)
 * [EN] **Analysis of sales data from more than 16,500 games:** [code](https://github.com/bosamatheus/video-game-sales)
 * [PT] **Descubra as melhores notas de matemática do ENEM 2016:** [code](https://github.com/bosamatheus/enem-2016)
 
