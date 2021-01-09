@@ -5,11 +5,11 @@
 </p>
 
 # Matheus Bosa
-<sub>*Backend Developer* and *Data Scientist*</sub>
+<sub>*Data Scientist* and *Software Engineer*</sub>
 
-Software Developer at GFT. Bachelor degree in Electrical Engineering from the Federal University of Paraná (UFPR). I'm also passionate about Data Science and Machine Learning.
+Software Engineer at GFT. Bachelor degree in Electrical Engineering from the Federal University of Paraná (UFPR). I am also passionate about Data Science and Machine Learning.
 
-**Background in:** Python, Machine Learning, Java and Microservices.
+**Background in:** Python, Machine Learning, Java, Go and Microservices.
 
 **Links:**
 * [Portfolio](https://bosamatheus.github.io)
