@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Matheus Bosa
+# Matheus Felipe Bosa
 <sub>*Data Scientist* and *Software Engineer*</sub>
 
 Software Engineer at GFT. Bachelor degree in Electrical Engineering from the Federal University of Paraná (UFPR). I am also passionate about Data Science and Machine Learning.
